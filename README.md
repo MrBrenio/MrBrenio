@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🧠 Treinando bem.
 - 🕹️ Animes e séries.
 
-Atualmente estou estudando JavaScript, HTML e CSS. Desenvolendo habilidades e colocando em prática. Aprofudando cada vez mais os conhecimentos.
+Atualmente trabalho na Compasso Uol como dev front-end atuando com JavaScript(knockout JS).
 
 ### Linguagens e Ferramentas:
 
