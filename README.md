@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🧠 Treinando bem.
 - 🕹️ Animes e séries.
 
-Atualmente trabalho na Compasso Uol como dev front-end atuando com JavaScript(knockout JS).
+Atualmente estou focando em react e node.
 
 ### Linguagens e Ferramentas:
 
